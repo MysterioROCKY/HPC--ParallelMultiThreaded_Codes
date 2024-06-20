@@ -1,6 +1,6 @@
 # HPC - High Performance Computing
 
-Welcome to the HPC (High Performance Computing) repository. This repository contains various assignments and projects related to parallel and multithreaded computing using C and Java.
+Welcome to the HPC (High Performance Computing) repository for the academic year 2023-24. This repository contains various assignments and projects related to parallel and multithreaded computing using **C (using OpenMP) and Java (using built-in concurrent libraries)**.
 
 ## Repository Structure
 
@@ -9,6 +9,8 @@ The repository is structured as follows:
 ### Assignments
 
 Each assignment folder contains multiple questions with both parallel multithreaded and sequential codes. The folders also include Excel sheets with performance readings (1, 2, 4, 8, 12, 16 threads) and PDF files showing complexity graphs.
+
+All folder contains multithreaded and parallel algorithms implemented in **C (using OpenMP)** and **Java (using built-in concurrent libraries)**.
 
 - **Assignment 1**
   - Compute A² of a matrix using ordinary and block matrix multiplication.
@@ -33,7 +35,7 @@ Each assignment folder contains multiple questions with both parallel multithrea
 
 ### MultiThreaded-Parallel_Algo
 
-This folder contains additional multithreaded and parallel algorithms implemented in C (using OpenMP) and Java (using built-in concurrent libraries).
+This folder contains additional multithreaded and parallel algorithms implemented in **C (using OpenMP)** and **Java (using built-in concurrent libraries)**.
 
 - **Locks (TAS-TTAS-Backoff)**
   - `Backoff.java`

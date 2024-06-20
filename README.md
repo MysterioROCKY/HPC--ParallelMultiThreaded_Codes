@@ -63,17 +63,22 @@ This folder contains additional multithreaded and parallel algorithms implemente
 
 2. **Compile and Run the Programs**
    
-   - For C programs, use a compiler like gcc:
-     ---sh
-     gcc -fopenmp program_name.c -o program_name
-     ./program_name
+- For C programs, use a compiler like `gcc`:
+   
+  ```sh
+  gcc -fopenmp program_name.c -o program_name
+  ./program_name
 
-   - For C programs, use a compiler like gcc:
-     ---sh
-     javac ProgramName.java
-     java ProgramName
+- For Java programs, use javac and java:
+
+  ```sh
+  javac ProgramName.java
+  java ProgramName
+
+
 
 3. **View Performance Data**
-   Check the Excel sheets in each assignment folder to see the performance readings with varying thread counts. The PDF files contain graphs and analyses of the 
-   computational complexity and speedup achieved.
+   
+   - Check the Excel sheets in each assignment folder to see the performance readings with varying thread counts. The PDF files contain graphs and analyses of the 
+     computational complexity and speedup achieved.
    

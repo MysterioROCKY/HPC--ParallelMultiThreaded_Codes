@@ -60,3 +60,20 @@ This folder contains additional multithreaded and parallel algorithms implemente
    ```sh
    git clone https://github.com/MysterioROCKY/HPC-HighPerformanceComputing.git
    cd HPC-HighPerformanceComputing
+
+2. **Compile and Run the Programs**
+   
+   - For C programs, use a compiler like gcc:
+     ---sh
+     gcc -fopenmp program_name.c -o program_name
+     ./program_name
+
+   - For C programs, use a compiler like gcc:
+     ---sh
+     javac ProgramName.java
+     java ProgramName
+
+3. **View Performance Data**
+   Check the Excel sheets in each assignment folder to see the performance readings with varying thread counts. The PDF files contain graphs and analyses of the 
+   computational complexity and speedup achieved.
+   

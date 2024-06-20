@@ -75,10 +75,8 @@ This folder contains additional multithreaded and parallel algorithms implemente
   javac ProgramName.java
   java ProgramName
 
-
-
 3. **View Performance Data**
    
-   - Check the Excel sheets in each assignment folder to see the performance readings with varying thread counts. The PDF files contain graphs and analyses of the 
-     computational complexity and speedup achieved.
+- Check the Excel sheets in each assignment folder to see the performance readings with varying thread counts. The PDF files contain graphs and analyses of the 
+  computational complexity and speedup achieved.
    

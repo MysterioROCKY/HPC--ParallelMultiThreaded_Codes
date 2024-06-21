@@ -1,6 +1,6 @@
 # HPC - High Performance Computing
 
-Welcome to the HPC (High Performance Computing) repository for the academic year 2023-24. This repository contains various assignments and projects related to parallel and multithreaded computing using **C (using OpenMP) and Java (using built-in concurrent libraries)**.
+Welcome to the HPC (High Performance Computing) repository. This repository contains various assignments and projects related to parallel and multithreaded computing using **C (using OpenMP) and Java (using built-in concurrent libraries)**.
 
 ## Repository Structure
 

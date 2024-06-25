@@ -8,8 +8,6 @@ The repository is structured as follows:
 
 This repository contains assignments and solutions for the High-Performance Computing (HPC) course. The assignments are focused on multi-threaded parallel execution and are implemented in C, C++, and Java. Each assignment folder includes the problem statements, source code, and performance analysis graphs.
 
-## Repository Structure
-
 ### Assignment 1
 - **.vscode**: Configuration files for the Visual Studio Code editor.
 - **Problem 1**

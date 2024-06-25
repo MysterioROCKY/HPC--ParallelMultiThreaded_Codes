@@ -128,6 +128,26 @@ This repository contains assignments and solutions for the High-Performance Comp
 - `HPC_Assignment4_Questions.jpg`: Image file with the questions for Assignment 4.
 - `Team 26 HPC Assignment 4.xlsx`: Excel sheet with performance data for Assignment 4.
 
+### MultiThreaded-Parallel_Algo
+
+This folder contains additional multithreaded and parallel algorithms implemented in **C (using OpenMP)** and **Java (using built-in concurrent libraries)**.
+
+- **Locks (TAS-TTAS-Backoff)**
+  - `Backoff.java`
+  - `Counter_test.java`
+  - `TASLock.java`
+  - `TTASLock.java`
+
+- **C Programs**
+  - `Floyd-Warshall.c`
+  - `In-Place_MatrixTranspose.c`
+
+- **Java Programs**
+  - `LinkedListWorkloadSimulation.java`
+  - `LockTest.java`
+  - `MatrixMultiplication.java`
+  - `MergeSortMultithreaded.java`
+
 ## Contents
 - **Source Code**: The main implementations of the problems in C, C++, and Java.
 - **Problem Statements**: PDFs containing the problem statements for each assignment.
@@ -161,25 +181,7 @@ All folder contains multithreaded and parallel algorithms implemented in **C (us
 - **Assignment 4**
   - Develop concurrent data structures (Binary Search Tree, AVL Tree, Skiplist, Hashsets) and measure their performance with various workloads.
 
-### MultiThreaded-Parallel_Algo
 
-This folder contains additional multithreaded and parallel algorithms implemented in **C (using OpenMP)** and **Java (using built-in concurrent libraries)**.
-
-- **Locks (TAS-TTAS-Backoff)**
-  - `Backoff.java`
-  - `Counter_test.java`
-  - `TASLock.java`
-  - `TTASLock.java`
-
-- **C Programs**
-  - `Floyd-Warshall.c`
-  - `In-Place_MatrixTranspose.c`
-
-- **Java Programs**
-  - `LinkedListWorkloadSimulation.java`
-  - `LockTest.java`
-  - `MatrixMultiplication.java`
-  - `MergeSortMultithreaded.java`
 
 ## Instructions
 
